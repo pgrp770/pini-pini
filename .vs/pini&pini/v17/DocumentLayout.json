@@ -1,12 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pgrp7\\OneDrive\\Desktop\\pini\u0026pini\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\source\\repos\\pini-pini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C37AA2-2025-4CFE-8A3E-872616732C7E}|pini\u0026pini\\pini\u0026pini.csproj|c:\\users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\source\\repos\\pini-pini\\pini\u0026pini\\pini\u0026pini.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2C37AA2-2025-4CFE-8A3E-872616732C7E}|pini\u0026pini\\pini\u0026pini.csproj|solutionrelative:pini\u0026pini\\pini\u0026pini.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C37AA2-2025-4CFE-8A3E-872616732C7E}|pini\u0026pini\\pini\u0026pini.csproj|c:\\users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\source\\repos\\pini-pini\\pini\u0026pini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C37AA2-2025-4CFE-8A3E-872616732C7E}|pini\u0026pini\\pini\u0026pini.csproj|solutionrelative:pini\u0026pini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pini\u0026pini",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\Source\\Repos\\pini-pini\\pini\u0026pini\\pini\u0026pini.csproj",
+              "RelativeDocumentMoniker": "pini\u0026pini\\pini\u0026pini.csproj",
+              "ToolTip": "C:\\Users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\Source\\Repos\\pini-pini\\pini\u0026pini\\pini\u0026pini.csproj",
+              "RelativeToolTip": "pini\u0026pini\\pini\u0026pini.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T11:43:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\source\\repos\\pini-pini\\pini\u0026pini\\Program.cs",
+              "RelativeDocumentMoniker": "pini\u0026pini\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05E4\u05D9\u05E0\u05D7\u05E1\\source\\repos\\pini-pini\\pini\u0026pini\\Program.cs",
+              "RelativeToolTip": "pini\u0026pini\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:42:15.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
