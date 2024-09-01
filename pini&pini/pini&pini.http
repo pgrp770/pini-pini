@@ -1,6 +1,0 @@
-@pini_pini_HostAddress = http://localhost:5210
-
-GET {{pini_pini_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
